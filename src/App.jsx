@@ -134,7 +134,7 @@ const App = () => {
             transformed everything.
           </h3>
           <p className="font-youngSerif text-14px text-customWhite mt-6 lg:mt-0">
-           <a href="https://www.google.com/maps/place/National+Institute+of+Technology,+Rourkela/@22.2530559,84.8983679,17z/data=!3m1!4b1!4m6!3m5!1s0x3a201f72bbd561c3:0xab5c70e76a7b5a!8m2!3d22.253051!4d84.9009428!16zL20vMGNnM2xr?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Meet me at my college!</a>
+           <a target="_blank" href="https://www.google.com/maps/place/National+Institute+of+Technology,+Rourkela/@22.2530559,84.8983679,17z/data=!3m1!4b1!4m6!3m5!1s0x3a201f72bbd561c3:0xab5c70e76a7b5a!8m2!3d22.253051!4d84.9009428!16zL20vMGNnM2xr?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Meet me at my college!</a>
           </p>
         </div>
 
